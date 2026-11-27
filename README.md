@@ -9,6 +9,7 @@ I can take your product and make it better. Like in the Celine Dion song - all b
 I really love coding though - check out my latest projects, all made by a living human being with a great passion:
 
 - [findyournextread.com](https://findyournextread.com/)
+- [findyournextevent.com](https://findyournextevent.com/)
 - [comfy-cards.com](https://comfy-cards.com/)
 - [protuhlo.com](https://protuhlo.com/)
 
